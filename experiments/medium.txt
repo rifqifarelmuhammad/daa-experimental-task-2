@@ -1,0 +1,10 @@
+===== MEDIUM DATASET =====
+--- Dynamic Programming ---
+Min Size: 40302
+Running Time: 1.009052038192749 s
+Running Memory: 9.619416 MB
+--- Branch And Bound ---
+Min Size: 41
+Running Time: 50.16550350189209 s
+Running Memory: 0.152472 MB
+

@@ -1,0 +1,10 @@
+===== SMALL DATASET =====
+--- Dynamic Programming ---
+Min Size: 4044
+Running Time: 0.07800102233886719 s
+Running Memory: 0.977498 MB
+--- Branch And Bound ---
+Min Size: 28
+Running Time: 0.19418668746948242 s
+Running Memory: 0.111399 MB
+
